@@ -1,0 +1,4 @@
+../Src/sensor.c:13:6:HCSR04_Init	1
+../Src/sensor.c:34:6:delay_us	2
+../Src/sensor.c:39:6:HCSR04_Trigger	1
+../Src/sensor.c:50:7:HCSR04_ReadDistance	4
